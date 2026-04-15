@@ -1,0 +1,15 @@
+{
+  "originHash" : "d0c254dc60f6e7025dc38f306efffee46aac8038541ce7f46e079d0562d723ee",
+  "pins" : [
+    {
+      "identity" : "sixfonts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Sixtema6T/SIXFonts",
+      "state" : {
+        "revision" : "20ed0a287fe61574e4830faa3815a9e397c3f76c",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
